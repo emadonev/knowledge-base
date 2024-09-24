@@ -1,0 +1,3 @@
+TAGS: #interesting_facts #calendar 
+
+Quintillis originally, then after Julius Caesar it’s called July. Sextillis originally, now August after Julius’s successor Augustus. Originally the calendar had 10 months (wow), but 2 were added, disturbing the whole balance. September, October, November and December were named originally by their place in the calendar (7,8,9,10), and are now the 9th, 10th, 11th and 12th month. 

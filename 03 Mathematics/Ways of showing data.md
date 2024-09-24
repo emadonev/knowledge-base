@@ -1,0 +1,4 @@
+TAGS: #statistics #mathematics #graphs #tables 
+
+Data can come in different types, and we show different data types in different ways. We can count nominal and discrete data into **frequency tables**, which depict the count of how many times a certain category was mentioned. We can then see the **relative frequency**, or how much is a specific category in comparison to the whole. We can represent our table using a **bar chart or a pie chart.** Bar charts are more common when we need to compare categories, and pie charts are more common for comparing each category to the whole. We can also **group our data together into categories**, into a **grouped frequency distribution.** We can graph this using a **histogram**, which shows the frequency of each group. However, once we start grouping data, we lose information about each individual point of data. 
+

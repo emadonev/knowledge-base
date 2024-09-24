@@ -1,0 +1,3 @@
+TAGS: #trees_p #programming #computer_science #data 
+
+These types are more complex than [[One-dimensional trees and B-trees]], only by the difference that they have more children than the B-trees. Popular options are **quad-trees**, which have 4 children in 2D space, and **oct-trees**, which have 8 children in 3D space. These trees significantly help out with the [[Near-neighbor search]], but they have something called **the curse of dimensionality.** Due to the nature of these trees, they quickly spiral out of control with how many dimensions suddenly form. 

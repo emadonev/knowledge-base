@@ -1,0 +1,3 @@
+TAGS: #mathematics #coordinate_systems 
+
+A polar coordinate system is a variant on the [[Cartesian coordinate system]], where instead of straight lines coming out from the numbers at each of the number lines, they are circles. For example, we have a circle which passes through points y=3, x=3, y=-3 and x=-3. Instead of x and y, we have the length and angle. The length is the distance of a point from the center of the coordinate system. The angle is the angle between the line (connects the center and the point of interest) and the horizontal number line. Using these two coordinates we can track a point's position. 

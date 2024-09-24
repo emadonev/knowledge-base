@@ -1,0 +1,4 @@
+TAGS: #mathematics #coordinate_systems
+LINKS:
+
+The Cartesian coordinate system was developed by famous mathematician Rene Decarte. The coordinate system is fairly simple. It consists of two endless number lines, who have an intersection at the point 0. They form a right angled system on a plane grid, with the intersecting lines of the numbers from the number lines. On the Cartesian coordinate system we can plot x,y pairs of numbers. The x axis is the horizontal number line, while the y axis is the vertical line. We can plot any point in 2D space, and in 3D space if we include a third number line. Each 2D coordinate system consits of 4 quadrants. The first one is where both x and y are positive, the second one where x is negative and y positive, the third one where both are negative, and the fourth one where x is positive and y is negative. We can plot graphs of functions, graphs, etc. on a cartesian coordinate system.

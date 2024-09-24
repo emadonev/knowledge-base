@@ -1,0 +1,3 @@
+TAGS: #chaos_theory #mathematics 
+
+The edge of chaos denotes the line between chaos and order. Scientists think that the neurons in our brain and their interconnectedness is on the edhe of chaos, which means it is extremely difficult  to describe, but not impossible. If we could understand the inner workings of the edge of chaos, we could revolutionize our understanding of how we think and our knowledge of the brain. 

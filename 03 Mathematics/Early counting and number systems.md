@@ -1,0 +1,5 @@
+TAGS: #mathematics #history #counting 
+
+The first record of counting was found to be 43,000 years old, on a leg bone of a baboon 29 etches were drawn. More bones were found, and there were attempts to create a number system using odd numbers. We kept on counting like this for around 20 millennia. We grouped and still do numbers into 10’s, probably because we have 10 fingers. But, other than systems with 10 base, there were also 12 base systems which were much more complex (and so the 10 base prevailed.) some systems today are an echo of **vestigial** counting, with 20 base systems. French is one of the languages which mixes up 10 and 20 base systems, as well as the language of Papua New Guinea mixes up 3 and 4 base systems, etc. A very popular system was the 60 base one, which is today a standard for time keeping. Our fingers were used as abacuses and we can count to 10, 20 and even 60 using our fingers which were the base of many numbers systems today. 
+
+Today they are intertwined and used interchangeably, arguably with the 10 base system being the most used. 

@@ -1,0 +1,3 @@
+TAGS: #chemistry #stoichiometry #calculation 
+
+ **Stoichiometry** is a branch of chemistry which deals with calculating reactions and chemical calculations. The foundation of stoichiometry is the fact that there is so much stuff in the universe that we need an efficient way of determining how to "organize" it. So we use [[Average atomic mass]] and [[The mole and Avogadro's number]] as bases for doing these calculations. We can apply these principles to calculating various metrics about [[Formula unit]]s. 

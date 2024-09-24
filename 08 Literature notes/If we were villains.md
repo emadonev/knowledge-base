@@ -1,0 +1,36 @@
+TAGS: #book #thriller #dark_academia
+
+This book was much weirder and more different from other books I read. It sets itself up as a mystery novel, however it is much more about the psychological demise of 7 students, their personal lives and how they feel and cope with the death of their "friend" (or as the title suggests, their enemy). It did not disappoint, as it did have a turn at the end. I was slightly disappointed by the lack of action, however the psychological aspect and character and relationship layering helped keep the rating at a 5/5. Let's dive into the characters.
+
+### Oliver
+Oliver was our narrator of the story. He went to prison for 10 years for the murder of his friend, Richard. However, Oliver is **innocent**. He went to prison so his best friend *and lover* James did not have to endure prison. In his mind, James would break. Oliver was portrayed as a very nice and kind person, and indeed he was when he was at university. He was always cast as a supportive character, the right side of the main role but never as the main role. He thought he was completely mediocre in every way possible. Even though everybody says he is nice (and I am not saying he is not) he is incredibly horrid towards his family. I know his father treated him horribly by not supporting his acting career and often making fun of him, however I do not find that a reason enough to hate his sisters and family in general. He treats his sister's eating disorder as a joke and makes fun of her. While I loved Oliver for most of the book, this kind of reaction was pretty horid. I do admit it was not okay for his parents to just remove his funding for school, I do think he should have had a bit more understanding for his sister who was going through pretty horid things. Oliver was interesting because he is kind of in love with 2 people. He was with Meredith and yet he was in love with James but never chased him. James was more like a best friend but they loved each other. He tells Meredith what they had was real (he did have real feelings for her) and for James. This sort of relationship is something I never read about, and it was interesting to think about.
+
+### James
+James was the killer of Richard, Oliver's best friend and lover. I personally loved James. Even when killing Richard. Richard was seriously an ass, however I think that killing him was not maybe the best course of action. James was always kind, an amazing actor, hard working and caring for others. He had a thing for Wren, but was mostly in love with Oliver. He broke after finding out that Oliver took the blame for murder, and killed himself 6 years after Oliver's arrest. However, I think he faked his death. They never found his body!!! Idk, it is a fun fan story... James was an amazing friend and always supported Oliver and their other friends. He basically hurt Richard in defence because Richard was threatening him (and he almost killed James in a previous adventure). However, letting him die even when he was barely alive still meant killing him in a way... In a way everybody was a villain...
+
+### Filippa
+She was Oliver's best friend, and she often took care of him. She was usually unnoticed, and did not contribute much to the story. She knew about the murder and was mentally extremely strong and hid all evidence and did not waver in her mental power. She was very caring, strong and supported others. She was also fun. Filippa might just be the most mysterious person. Nobody knows anything about her really, where she comes from, lives, who her family is, etc. She is like a ghost and says that the group is her only family.
+
+### Wren
+Wren was Richard's cousin and a good but secluded friend of the group. We barely know anything about her. She is super emotional, a good actress and she has severe anxiety issues.
+
+### Meredith
+She is a complicated little soul. She is jaw-droppingly gorgeous, a natural redhead, extremely attractive. All of the boys were over her, and she was Richard's girlfriend. She used her attractivness to her advantage, and while claiming she hates when people see her just for her beauty, she seems not to hate it most of the time. She sometimes gives me a hypocritical vibe because she uses her beauty to get whatever she wants, but when somebody wants to use her she is suddenly very pissed. She was in a relationship with Oliver because he was extremely caring, nice and not judgy in her words. However, I think she felt good to have somebody else but Richard just to annoy him which is pretty shitty towards Oliver honestly. She seems sad about Richard's death, but not really at the same time. 
+
+### Alexander
+The vampire looking guy of the group, he was a drug addict (ended up in the hospital because of overdosing, but survived and managed to get off drugs yay!). He was the one who decided to let Richard die even though he was still (barely) alive. He is farely elusive (extremely gay) and the funnier and more relaxed part of the group. A very good actor, a good friend, but sometimes has off thinkgin (khm khm letting Richard die)... 
+
+### Richard
+Ah, the murduree. Richard = asshole, jerk, etc. He was extremely violent and often hurt his girlfriend, friends, almost killing James khm khm. Liked to get very drunk and then hurt other people. Has the rage meter the size of a toothpick. He was a star, an amazing actor, always in the spotlight. As soon as he stepped just a tiny bit off, he became a horrible person and really hurt the cast. Some might argue his death was a good thing, but does that mean that we should kill people if they are not nice? How do we get to justify somebody's death?
+
+Overall, this book had amazing writing, great psychological destruction, great dark academia and Shakespeare vibe. I loved how the thespians spoke in excerpts and they really loved acting. My favorite quote (arguably the most important one) is:
+
+>You can justify everything if you do it poetically enough.
+
+I think this sums up the book perfectly. 
+
+While reading this book, it set up some interesting questions. What is the true meaning of friendhship? We can see that Richard was an integral part of their group, and he was their friend, and yet nobody hesitated to let him die. What is really a villain? The title poses a statement if the group were villains, so does letting him die and protecting themselves from harm make them villains? Or is every death simply wrong? What is the meaning of categorizing people into sexuality categories? We can see that everybody was basically in love with everybody. Oliver loved James, Meredith, etc. I think it doesnt matter the gender, but a specific person. i don't think Oliver is bi (or gay), but rather he loved James **because he was James**. The book also poses the questions about the meaning of relationships. Oliver and James and Meredith were in love with multiple people at once. Is that okay? I was honestly weirded out at the beginning, however, I realised that its actually okay. I guess in a thespian's world, everybody kissed everyone and loves everything and everyone with a different intensity than the rest of the world. 
+
+The book at times had such great poetic vibes and I loved how much the actors loved literature, poetics, etc. 
+
+I just wished James and Oliver were a thing...

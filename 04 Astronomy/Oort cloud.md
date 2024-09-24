@@ -1,0 +1,3 @@
+TAGS: #astronomy #planetary_science 
+
+While the Oort cloud captivated the minds of scientists, it has actually never been observed, and so far it's existence relies on mathematical models and observations of [[Comets]]. It is theoretically a giant sphere surrounding the solar system. It contains icy space debris, which can be very small, or very large (the size of mountains!). It is very thick, around 95000 AU wide! 

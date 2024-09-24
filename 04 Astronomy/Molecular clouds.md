@@ -1,0 +1,1 @@
+Dense clouds with a very low temperature of around 10K and a rich variety of molecules are found in the spiral arms of the Milky Way and other galaxies. These clouds make up 45% of the mass in the interstellar medium. 

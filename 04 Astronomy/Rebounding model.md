@@ -1,0 +1,3 @@
+TAGS: #astronomy #planetary_science #solary_system 
+
+This model talks about the formation of gas giants and their inward migration towards the Sun. When they are still very small, they feel an inward pull towards the Sun, or towards the denser gas. ANd so they move inwards towards the star, but when the gas begins to evaporate as when the star starts shining, there is more gas remaining in the farther reaches of the planetary system, and the planet is dragged back out, just in time!

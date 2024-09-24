@@ -1,0 +1,3 @@
+TAGS: #astronomy #planetary_science 
+
+Beyond the ice line, gases are more abundant, being away from the scorching heat. Here, the gas giants lie, dominating the solar system with their size and grand design. They lavished in their size, throwing out any comets, asteroids or meteoroids which stood in their way, or in the way of the smaller terrestrial planets. These objects flew to a great distance away form the Sun, eventually forming the kupiter belt and (potentially) the [[Oort cloud]]. 

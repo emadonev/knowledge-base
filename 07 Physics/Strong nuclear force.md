@@ -1,0 +1,4 @@
+TAGS: #physics #nuclear_physics #force #nucleus 
+
+This is the attractive force between [[Protons]] and [[Neutrons]] in the nucleus. This force is not about the charge of the nucleons, but the distance between them. It has a very short range, around 10^-15 m! So, as the nucleus of [[Atoms]] grows larger, it is harder for the strong force to keep the atom together. 
+Some other properties of this force are that it doesn't have an attraction via all nucleons, but only the ones close to each other. Also, the force prefers binding pairs of protons and neutrons with opposite spins and pairs of proton and neutron pairs. [[Gluons]] are the carriers of the strong nuclear force within the nucleons themselves. 

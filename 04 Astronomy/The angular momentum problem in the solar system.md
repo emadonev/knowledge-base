@@ -1,0 +1,3 @@
+TAGS: #physics #astronomy #solary_system 
+
+The planets in the solar system make up around 0.14% of the total mass of the system. However, they account for 99% of the angular momentum in the solar system via their orbital motions. Because of this, the sun rotates very slowly because it lacks [[Angular momentum]]. This means that the Sun must have transffered most of its angular momentum into the [[Planetary disk of the solar system 1]]. 

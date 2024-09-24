@@ -1,0 +1,3 @@
+TAGS: #nucleus #nuclear_physics #structure #physics #chemistry 
+
+This model infers that all nuclei are of approximately the same density (which makes intuitive sense) and that every nucleon in the [[Nucleus]] is kind of like a “drop of liquid.” The whole nucleus is like a liquid, so we can define the individual nucleons([[Protons]] and [[Neutrons]]) as liquid particles in liquid matter. This model can estimate a nucleus’s total bonding energy and accounts for processes like **nuclear fission.**

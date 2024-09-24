@@ -1,0 +1,3 @@
+TAGS: #astronomy #solary_system #planetary_science 
+
+This model depicts the [[Planetary migration in the solar system]] of Jupiter and Saturn in the early stages. It states that Saturn was there to protect Jupiter, or when Jupiter went headfirst towards the Sun, on the path to become a [[Hot Jupiter]], Saturn with its gravity, pulled Jupiter back towards the outer solar system, and they migrated outwards, leaving little material for the rocky planets to form. 

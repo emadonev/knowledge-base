@@ -1,1 +1,0 @@
-How can we predict when the next solar eclipse (or lunar eclipse for that matter) will occur if we cannot accurately predict the positions of the planets, what with the whole solar system being an unstable and chaotic system?

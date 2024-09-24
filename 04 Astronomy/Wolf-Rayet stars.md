@@ -1,0 +1,3 @@
+TAGS: #star #astronomy #variable_star 
+
+These types of stars are fairly old massive stars which lost and are still losing lots of mass because of Stelar winds, similar to a [[Solar wind]]. Most of its light is in the UV part of the spectrum since its surface temperature is very high. We do not really understand how they work, or how their winds work. WR stars have emission lines of highly ionized helium, nitrogen, carbon and oxygen. 

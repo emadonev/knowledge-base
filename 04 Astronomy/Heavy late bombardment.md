@@ -1,0 +1,3 @@
+TAGS: #asteroid #solary_system #astronomy 
+
+A period in the early universe where because of the migration of Jupiter and Saturn, asteroids were brought in from the outer reaches of the solar system and they came crashing down on all the planets. Some evidence for the LHB were craters on the Moon and Mars, however scientists are disputing the existence of LHB. Due to LHB [[The Nice model]] was developed, however scientists today are looking at another model, [[The grand track]]. 

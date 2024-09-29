@@ -90,7 +90,7 @@ Using the conservation of [[Angular momentum]]:$$mvr = nℏ$$, where ℏ is $h/2
 - eg Radiation is emitted only when the electron jumps from a higher energy state to a lower one!!! (Bohr's second postulate)
 
 So, the energy difference is:$$h\nu = E_{n2} - E_{n1}$$
-Using [[Coloumbs law]] we can determine the energy of an electron. By using the equivalence of circular motion force and coloumb's force, we get:$$\frac{mv_n^2}{r_n} = \frac{e^2}{4\pi \epsilon_0 r_n^2}$$
+Using [[Coulomb's law]] we can determine the energy of an electron. By using the equivalence of circular motion force and coloumb's force, we get:$$\frac{mv_n^2}{r_n} = \frac{e^2}{4\pi \epsilon_0 r_n^2}$$
 Using the 2 main relations we get:
 - f $$v_n = \frac{e^2}{4\pi \epsilon_0 n  ℏ}$$
 And:

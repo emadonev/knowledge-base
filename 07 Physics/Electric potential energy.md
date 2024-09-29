@@ -13,7 +13,7 @@ The image below describes this: ![[electric potential energy.jpeg]]
 So, how would we derive the formula?
 
 ### 1) The force
-The first step is to think about charged particles in a field. They all exhibit [[Coloumbs law]], or Coloumb's force which is:$$F = k\frac{Q_1Q_2}{r^2}$$, and it is extremely similar to [[The universal law of gravitation]], since they both <mark style="background: #61e8e1;">describe the same thing but in different fields</mark>. Since we are in the electromagnetic field, *every point in this field has a defined value*, so we can track the strength of this force with its dependence from the $Q_1$ charge. 
+The first step is to think about charged particles in a field. They all exhibit [[Coulomb's law]], or Coloumb's force which is:$$F = k\frac{Q_1Q_2}{r^2}$$, and it is extremely similar to [[The universal law of gravitation]], since they both <mark style="background: #61e8e1;">describe the same thing but in different fields</mark>. Since we are in the electromagnetic field, *every point in this field has a defined value*, so we can track the strength of this force with its dependence from the $Q_1$ charge. 
 
 ### 2) Work
 We know from classical physics that:$$W = F * s$$, where F is a force doing the work over a certain distance, s. We can calculate the work by integrating ([[Integrals]]) Coloumb's force from infinity to a certain distance r. $$W = \int_{r_0}^r F \;dr = \int_{r_0}^r k\frac{Q_1Q_2}{r^2}\;dr$$

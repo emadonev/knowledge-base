@@ -78,9 +78,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "270e9f4a6ebf4c4b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 Mathematics/Derivatives.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8d37594277678efb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Limits.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -109,7 +133,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:logari",
+                "query": "file:deriva",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -126,7 +150,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -146,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logarithms.md",
+                "file": "Limits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logarithms.md",
+                "file": "Limits.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +211,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logarithms.md"
+                "file": "Limits.md"
               }
             }
           }
@@ -208,16 +233,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5861e63b7f9cabcd",
+  "active": "8d37594277678efb",
   "lastOpenFiles": [
+    "Limits.md",
+    "03 Mathematics/Derivatives.md",
+    "03 Mathematics/Derivative.md",
     "Logarithms.md",
     "03 Mathematics/a Function.md",
+    "03 Mathematics/Mathematical models.md",
+    "Electric field and forces.md",
+    "07 Physics/Coulomb's law.md",
+    "Astronomy lecture series.md",
     "03 Mathematics/The number e.md",
     "09 FILES/expo functions.png",
     "09 FILES/2x.png",
-    "07 Physics/Coulomb's law.md",
-    "Electric field and forces.md",
-    "03 Mathematics/Mathematical models.md",
     "09 FILES/stretching reflection.png",
     "09 FILES/screenshots/Screenshot 2024-06-24 at 10.06.03.png",
     "09 FILES/screenshots/Screenshot 2024-06-24 at 09.56.04.png",
@@ -239,7 +268,6 @@
     "03 Mathematics/Polynomials.md",
     "Linear regression.md",
     "03 Mathematics/Linearity.md",
-    "Astronomy lecture series.md",
     "07 Physics/Angular momentum.md",
     "07 Physics/Alpha decay.md",
     "07 Physics/Boson.md",

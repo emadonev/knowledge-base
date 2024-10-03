@@ -5,10 +5,10 @@ tags:
   - physics
 ---
 **Derivatives** are a crucial part of [[Calculus]], aiming to look for the *change in a moment*, an infitesimaly small fraction of time, actually no time at all. 
-- !! They look at a *particular moment* and look for the **change in a particular property**, for example the change in position over time or the change in happiness over time, etc. 
+> They look at a *particular moment* and look for the **change in a particular property**, for example the change in position over time or the change in happiness over time, etc. 
 
-A *positive derivative* means that our desired quantity is increasing, while a *negative derivative* that it is decreasing. When the derivative is 0, we have reached a local *maximum or minimum*. Naturally*, we can take the **derivative of a derivative**, to monitor the change of a change.
-- eg For example, looking at the change in position over time gives us [[Velocity]], while the **change in velocity or the second derivative of position** is actually [[Acceleration]]. Now, taking many derivatives of derivatives can get carried away. ![[derivatives out of control.jpeg]]
+A *positive derivative* means that our desired quantity is increasing, while a *negative derivative* that it is decreasing. When the derivative is 0, we have reached a local *maximum or minimum*. Naturally, we can take the **derivative of a derivative**, to monitor the change of a change.
+- For example, looking at the change in position over time gives us [[Velocity]], while the **change in velocity or the second derivative of position** is actually [[Acceleration]]. Now, taking many derivatives of derivatives can get carried away. ![[derivatives out of control.jpeg]]
 
 However, when looking at an *instantaneous* change, or looking at a particular moment, w<mark style="background: #faedcd;">e realize that the change in our quantities is 0</mark>, since we are only looking at a moment. A very clever guy by the name Leibniz figured out a sleight of hand to help mathematicians with this conundrum. He developed the *dx* notation, where they don't really represent numbers or specific values, they cannot really be divided, however, they represent a **infinitesimal increment of a quantity**, which is visually self-explanatory and cannot *really* be described. 
 
@@ -18,14 +18,14 @@ But, how can we describe the rate of change? How would we begin describing it? L
 
 So, if curves approach straight lines, we can say that the **slope of a point is a ==tangent line==**, which comes extremely handy in calculus.
 ![[tangents and calculus.png]]
-Now, another thing we need to take care of are [[Limits]]. They define how far we can really look into the infinite, so we don't step over the boundary of a limit, off into infinity... 
+Now, another thing we need to take care of are [[03 Mathematics/Limits]]. They define how far we can really look into the infinite, so we don't step over the boundary of a limit, off into infinity... 
 
 ### What if we can't take a derivative?
 ---
 But, what happens if we don't have smooth [[Functions]]? Can we still take a derivative? Well, not really. With a smooth function, there is a **transition from one direction to another**, a point where ==the derivative is 0.== However, for nondifferential functions, there is a **sharp turn** (like in absolute functions), where we cannot take the derivative since *nothing can be defined in that moment*.
 ![[no derivatives.png]]
 But, this is just a function with only one undefined point. A very "poetic" mathematician
-- n *""It is true, that a mathematician who is not somewhat of a poet, will never be a perfect mathematician.*
+- *"It is true, that a mathematician who is not somewhat of a poet, will never be a perfect mathematician"*
 
 created a monster of a function, one whose every single point doesn't have a derivative. It approximately looks like this:
 ![[weierstrass.png]]
@@ -61,9 +61,6 @@ These are the rules when handling derivatives, and they are:
 - [[Power rule]]
 - [[Chain rule]]
 - [[Quotient rule]]
-
-
-
 
 ### A slightly more geometrical look of graphs
 ---
